@@ -1,0 +1,7 @@
+.classpath
+.idea/
+.project
+.settings/
+pom.xml
+target/
+test-wallet/
